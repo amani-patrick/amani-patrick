@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amani-patrick
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in Anonymity
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me is to call me

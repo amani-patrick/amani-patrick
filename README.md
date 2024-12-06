@@ -28,19 +28,16 @@
 ### 📫 Connect with Me:
 <p>
   <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
-  <a href="mailto:amani@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/></a>
+  <a href="mailto:pazzoamani@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/></a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <!-- Add your tools and languages here with their icons -->
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <!-- Add other icons as per your current design -->
 </p>
 
 ---
@@ -61,7 +58,7 @@
 n/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymecoffee Amani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee Amani" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/buymecoffee Amani_pazzo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee Amani" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amani-patrick&show_icons=true&locale=en&layout=compact" alt="amani-patrick" /></p>
 

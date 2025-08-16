@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amani Patrick</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">🚀 Fullstack Developer | 🛡️ Penetration Tester | 🌍 Rwanda</h3>
 
 <p align="center">

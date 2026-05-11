@@ -22,9 +22,14 @@ Currently exploring the intersection of **AI and cybersecurity**: smarter toolin
 
 ### GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amani-patrick&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+<!-- Stats: awesome-github-stats — hosted on Azure, actively maintained, no rate limit issues -->
+[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amani-patrick?cardType=level&theme=github-dark&preferLogin=false)](https://awesome-github-stats.azurewebsites.net/)
+
+<!-- Streak: streak-stats.demolab.com — current maintained URL -->
 ![Streak](https://streak-stats.demolab.com/?user=amani-patrick&theme=github-dark-blue&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amani-patrick&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+<!-- Languages: github-profile-summary-cards — GitHub Actions based, reliable -->
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amani-patrick&theme=github_dark)
 
 ---
 

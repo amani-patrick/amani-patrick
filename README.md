@@ -22,14 +22,19 @@ Currently exploring the intersection of **AI and cybersecurity**: smarter toolin
 
 ### GitHub
 
-<!-- Stats: awesome-github-stats — hosted on Azure, actively maintained, no rate limit issues -->
-[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amani-patrick?cardType=level&theme=github-dark&preferLogin=false)](https://awesome-github-stats.azurewebsites.net/)
-
-<!-- Streak: streak-stats.demolab.com — current maintained URL -->
-![Streak](https://streak-stats.demolab.com/?user=amani-patrick&theme=github-dark-blue&hide_border=true)
-
-<!-- Languages: github-profile-summary-cards — GitHub Actions based, reliable -->
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amani-patrick&theme=github_dark)
+<table>
+  <tr>
+    <td width="34%">
+      <img width="100%" src="https://awesome-github-stats.azurewebsites.net/user-stats/amani-patrick?cardType=level&theme=github-dark&preferLogin=false" alt="GitHub Stats" />
+    </td>
+    <td width="34%">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=amani-patrick&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="32%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amani-patrick&theme=github_dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 

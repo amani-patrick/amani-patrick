@@ -22,8 +22,9 @@ Currently exploring the intersection of **AI and cybersecurity**: smarter toolin
 
 ### GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amani-patrick&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amani-patrick&layout=compact&theme=github_dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=amani-patrick&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+![Streak](https://streak-stats.demolab.com/?user=amani-patrick&theme=github-dark-blue&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amani-patrick&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ---
 
